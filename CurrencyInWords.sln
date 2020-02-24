@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyInWords", "CurrencyInWords\CurrencyInWords.csproj", "{529F2264-A274-4338-844C-25A788B9D163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyInWordsTest", "CurrencyInWordsTest\CurrencyInWordsTest.csproj", "{76F432E8-AC58-447B-84E8-0D757133DB2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529F2264-A274-4338-844C-25A788B9D163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529F2264-A274-4338-844C-25A788B9D163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529F2264-A274-4338-844C-25A788B9D163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529F2264-A274-4338-844C-25A788B9D163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F432E8-AC58-447B-84E8-0D757133DB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F432E8-AC58-447B-84E8-0D757133DB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F432E8-AC58-447B-84E8-0D757133DB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F432E8-AC58-447B-84E8-0D757133DB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E548FAD6-FCEC-434E-8A46-A06F557A1A06}
+	EndGlobalSection
+EndGlobal

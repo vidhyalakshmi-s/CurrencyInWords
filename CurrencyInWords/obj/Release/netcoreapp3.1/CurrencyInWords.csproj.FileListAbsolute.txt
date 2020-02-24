@@ -1,0 +1,11 @@
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\bin\Release\netcoreapp3.1\CurrencyInWords.exe
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\bin\Release\netcoreapp3.1\CurrencyInWords.deps.json
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\bin\Release\netcoreapp3.1\CurrencyInWords.runtimeconfig.json
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\bin\Release\netcoreapp3.1\CurrencyInWords.runtimeconfig.dev.json
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\bin\Release\netcoreapp3.1\CurrencyInWords.dll
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\bin\Release\netcoreapp3.1\CurrencyInWords.pdb
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\obj\Release\netcoreapp3.1\CurrencyInWords.csprojAssemblyReference.cache
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\obj\Release\netcoreapp3.1\CurrencyInWords.AssemblyInfoInputs.cache
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\obj\Release\netcoreapp3.1\CurrencyInWords.AssemblyInfo.cs
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\obj\Release\netcoreapp3.1\CurrencyInWords.dll
+C:\Users\Vinoth\source\repos\CurrencyInWords\CurrencyInWords\obj\Release\netcoreapp3.1\CurrencyInWords.pdb

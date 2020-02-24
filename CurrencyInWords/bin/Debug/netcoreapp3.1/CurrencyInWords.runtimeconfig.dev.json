@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vinoth\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vinoth\\.nuget\\packages"
+    ]
+  }
+}
